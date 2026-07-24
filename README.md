@@ -1,7 +1,7 @@
 # Applied Agenticai-assignment
 
 
-# Project Overview
+# Overview
 
 This project demonstrates the fundamentals of Applied Agentic AI using **Ollama** and the **Llama 3.2** model. The assignment includes:
 
@@ -25,7 +25,7 @@ The implementation uses Python and runs locally through Ollama without requiring
 
 ---
 
-# Project Structure
+# Structure
 
 ```
 AgenticAI/
@@ -119,7 +119,7 @@ pip install langchain-community
 
 ---
 
-# Running the Project
+# Running the tasks
 
 ## Step 1
 
@@ -165,7 +165,7 @@ python rag.py
 
 # Learning Outcomes
 
-After completing this project, I learned how to:
+After completing this assignment, I learned how to:
 
 - Use Large Language Models (LLMs)
 - Build prompt chaining workflows
@@ -177,7 +177,7 @@ After completing this project, I learned how to:
 
 # Conclusion
 
-This project successfully demonstrates the core concepts of Applied Agentic AI using local LLMs through Ollama. It covers LLM interaction, prompt engineering, AI agents, and retrieval-based question answering, providing a practical introduction to modern AI application development.
+This assignment successfully demonstrates the core concepts of Applied Agentic AI using local LLMs through Ollama. It covers LLM interaction, prompt engineering, AI agents, and retrieval-based question answering, providing a practical introduction to modern AI application development.
 ````
 
 This README is suitable for submission with your assignment and clearly explains each component of the project.
